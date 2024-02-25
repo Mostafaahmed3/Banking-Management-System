@@ -1,0 +1,16 @@
+D:\.net Track\Bank_Management_System\MyBank\bin\Debug\net5.0\MyBank.exe
+D:\.net Track\Bank_Management_System\MyBank\bin\Debug\net5.0\MyBank.deps.json
+D:\.net Track\Bank_Management_System\MyBank\bin\Debug\net5.0\MyBank.runtimeconfig.json
+D:\.net Track\Bank_Management_System\MyBank\bin\Debug\net5.0\MyBank.runtimeconfig.dev.json
+D:\.net Track\Bank_Management_System\MyBank\bin\Debug\net5.0\MyBank.dll
+D:\.net Track\Bank_Management_System\MyBank\bin\Debug\net5.0\ref\MyBank.dll
+D:\.net Track\Bank_Management_System\MyBank\bin\Debug\net5.0\MyBank.pdb
+D:\.net Track\Bank_Management_System\MyBank\obj\Debug\net5.0\MyBank.csproj.AssemblyReference.cache
+D:\.net Track\Bank_Management_System\MyBank\obj\Debug\net5.0\MyBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Track\Bank_Management_System\MyBank\obj\Debug\net5.0\MyBank.AssemblyInfoInputs.cache
+D:\.net Track\Bank_Management_System\MyBank\obj\Debug\net5.0\MyBank.AssemblyInfo.cs
+D:\.net Track\Bank_Management_System\MyBank\obj\Debug\net5.0\MyBank.csproj.CoreCompileInputs.cache
+D:\.net Track\Bank_Management_System\MyBank\obj\Debug\net5.0\MyBank.dll
+D:\.net Track\Bank_Management_System\MyBank\obj\Debug\net5.0\ref\MyBank.dll
+D:\.net Track\Bank_Management_System\MyBank\obj\Debug\net5.0\MyBank.pdb
+D:\.net Track\Bank_Management_System\MyBank\obj\Debug\net5.0\MyBank.genruntimeconfig.cache
